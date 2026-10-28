@@ -1,4 +1,4 @@
-# Merhaba, Ben [Adın]! 👋
+# Merhaba, Ben [Ege]! 👋
 
 Bursa Uludağ Üniversitesi'nde 1. Sınıf Bilgisayar Mühendisliği öğrencisiyim. Yazılım ve donanım dünyasının temellerini atarken, yeni şeyler keşfetmekten ve mühendislik projelerinin bir parçası olmaktan büyük keyif alıyorum.
 
